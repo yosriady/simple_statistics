@@ -1,0 +1,2 @@
+defmodule SimpleStatistics do
+end
