@@ -1,4 +1,6 @@
 defmodule SimpleStatistics.Mean do
+  @moduledoc false
+
   @doc ~S"""
   The mean is the sum of all values over the number of values.
 
