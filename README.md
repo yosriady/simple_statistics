@@ -2,6 +2,7 @@
 
 Statistical methods in Elixir.
 
+### [Hex](http://hex.pm/packages/simple_statistics)
 ### [API Documentation](http://yosriady.com/simple_statistics/)
 
 ## Installation
